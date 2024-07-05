@@ -9,7 +9,6 @@
 .shapeshifter {
   animation-duration: 1200ms;
   animation-timing-function: steps(72);
-  animation-fill-mode: forwards;
   width: 76px;
   height: 76px;
   background-repeat: no-repeat;
